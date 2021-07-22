@@ -4,8 +4,8 @@ The is the Software part of my submission for TopBot'21 at Aparoksha, IIIT Allah
 
 ## Introduction
 ---
-This project is intended to create a robot that is controlled remotely over the internet using the [Blynk Library](https://github.com/blynkkk/blynk-library) and app
-and [stream a live video](https://github.com/EbenKouao/pi-camera-stream-flask)
+This project is intended to create a robot that is controlled remotely over the internet using the [Blynk Library](https://github.com/blynkkk/blynk-library) and app, 
+and [stream a live video](https://github.com/EbenKouao/pi-camera-stream-flask) in the mjpeg format.
 
 ## Dependencies
 ---
