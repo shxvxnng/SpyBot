@@ -27,6 +27,7 @@ and [stream a live video](https://github.com/EbenKouao/pi-camera-stream-flask) i
 Running the `control.py` script.
 
 ![demo GIF](https://github.com/shxvxnng/SpyBot/blob/main/eKhvcaz.gif)
+
 [Project Report, ](https://drive.google.com/file/d/1ZDXRLLzFm_0xgGlmyj99mLBZO8jeV4Gk/view?usp=sharing)
 
 [Demonstration](https://drive.google.com/file/d/14p7yhDLUatJf0sudLrYbs3ge1eWC6aun/view?usp=sharing)
