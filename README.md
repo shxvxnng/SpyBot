@@ -28,6 +28,6 @@ Running the `control.py` script.
 
 ![demo GIF](https://github.com/shxvxnng/SpyBot/blob/main/eKhvcaz.gif)
 
-[Project Report, ](https://drive.google.com/file/d/1ZDXRLLzFm_0xgGlmyj99mLBZO8jeV4Gk/view?usp=sharing)
+[Project Report](https://drive.google.com/file/d/1vYqQb0PKi1j4Zi2NIjhUx1pa8iMYB8Sc/view?usp=share_link)
 
-[Demonstration](https://drive.google.com/file/d/14p7yhDLUatJf0sudLrYbs3ge1eWC6aun/view?usp=sharing)
+[Demonstration](https://drive.google.com/file/d/1hCEVR6t5zb0sdyOsg9gnJoxwxshJLjOM/view?usp=share_link)
